@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansingh3121&label=Profile%20views&color=0e75b6&style=flat" alt="rohansingh3121" /> </p>
 
-- 👨‍💻 All of my PUBLIC projects are available at [https://github.com/rohansingh3121?tab=repositories](https://github.com/rohansingh3121?tab=repositories)
+- 👨‍💻 All of my PUBLIC projects are available at [https://github.com/rohansingh3121?tab=repositories](Rohan's Projects)
 
 - 📫 You can reach me at **rohansingh3121@gmail.com**
 
